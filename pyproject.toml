@@ -11,5 +11,6 @@ dependencies = [
     "langchain-aws>=0.2.33",
     "langchain-ollama>=0.3.8",
     "langchain-openai>=0.3.33",
+    "langchain-tavily>=0.2.11",
     "python-dotenv>=1.1.1",
 ]
